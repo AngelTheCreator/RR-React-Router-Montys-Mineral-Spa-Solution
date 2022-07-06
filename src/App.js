@@ -14,7 +14,13 @@ import Container from 'react-bootstrap/Container'
 
 function App() {
   
-  const packages = ['Activate your Crystals', 'Monkey Meditation', 'Soak in the Hotsprings', 'Hypnotherapy', 'Mineral Bath']
+  const packages = [
+    'Activate your Crystals', 
+    'Monkey Meditation', 
+    'Soak in the Hotsprings', 
+    'Hypnotherapy', 
+    'Mineral Bath'
+  ]
 
 
   return (
